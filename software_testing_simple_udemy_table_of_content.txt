@@ -1,0 +1,60 @@
+Topics that are covered:
+- Software Development Life Cycle (SDLC)
+
+- Testing definition
+
+- Defects (bugs)
+
+- Types of testing: UI testing, Functional testing, Compatibility testing, Localization testing, Performance testing, Usability testing, Security testing, s Ad-hoc testing, Cross-platform and Cross-browser Testing
+
+- How to capture screenshots
+
+- Bug triage
+
+- Severity and Priority
+- Test cases
+
+- Test plans
+
+- Smoke, Sanity and Regression testing
+
+- How to test on Mobile devices
+
+- How to use Chrome Mobile view
+
+- Modern browsers and segmentation
+
+- How to test Android \ iOS apps without a device
+
+- Positive and Negative Testing
+
+- Boundary Value Analysis?
+
+- What is Equivalence Partitioning testing?
+
+- Web Architecture, Back-end and Front-end testing
+
+- How to debug front-end or back-end issues (must have)
+
+- Builds and Releases: Deployment, Release
+
+- User Acceptance Testing (UAT)
+
+- QA Interview: How to prepare, How to write resume, Education requirements for QAs, Where to apply for QA job, Contract vs Full-time QA job,
+Agency (Recruiter) vs Direct Hire, Interview Process, How to apply on LinkedIn and Glassdoor
+
+- QA resume screening
+
+- QA phone screening
+
+- Tell me about yourself story
+
+- Tell me about your project
+
+- QA technical interview questions
+
+- QA personality interview questions
+
+- QA technical interview questions
+
+- QA personality interview questionszz
